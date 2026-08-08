@@ -1,0 +1,26 @@
+# Dependencies and framework output
+node_modules/
+.next/
+out/
+
+# Local deployment state
+.vercel/
+
+# Test output
+playwright-report/
+test-results/
+coverage/
+*.tsbuildinfo
+
+# Local source and design artifacts
+design-previews/
+tmp/
+output/
+8f8b95403bb33be0654c323fbed0287b.jpg
+QiaolinXU_CV.pdf
+.pdf-venv/
+
+# System and logs
+.DS_Store
+*.log
+npm-debug.log*
