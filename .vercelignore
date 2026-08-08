@@ -1,0 +1,26 @@
+# Repository and framework output
+.git/
+.next/
+node_modules/
+.vercel/
+
+# Local source, design, and document-generation artifacts
+.pdf-venv/
+design-previews/
+tmp/
+output/
+8f8b95403bb33be0654c323fbed0287b.jpg
+QiaolinXU_CV.pdf
+
+# Development-only output and tooling
+test-results/
+playwright-report/
+coverage/
+tests/
+scripts/
+playwright.config.ts
+eslint.config.mjs
+prettier.config.mjs
+*.tsbuildinfo
+.DS_Store
+*.log
